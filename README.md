@@ -1,0 +1,2 @@
+# FDB---Sistema-Basico-para-la-gestion-de-ventas-de-productos-electronicos
+El proyecto consiste en el desarrollo de un sistema de base de datos para la gestión básica de información sobre los productos vendidos de una mini empresa donde actualmente estoy trabajando, ya que este es un nuevo proyecto donde ya hay ventas y no tenemos un sistema que gestione el inventario, las ventas, productios vendidos.
