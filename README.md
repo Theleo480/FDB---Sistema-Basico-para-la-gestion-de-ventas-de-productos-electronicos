@@ -8,7 +8,6 @@ El sistema permitirá llevar un control del inventario, las ventas y los product
 ## Motivación
 La motivación de este proyecto surge de la necesidad real de contar con un sistema que permita gestionar las ventas y el inventario, ya que actualmente no se dispone de una herramienta que realice estas funciones de manera adecuada.
 
-## Tech Stack (opcional)
 ## Tech Stack
 
 <p align="left">
