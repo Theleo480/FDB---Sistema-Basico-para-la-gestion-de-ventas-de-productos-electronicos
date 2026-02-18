@@ -1,6 +1,6 @@
 # Sistema Básico para la Gestión de Ventas de Productos Electrónicos
 
-![Descripción del gif](assets/mi_gif.gif)
+![Descripción del gif](assets/mi_gif.gif).
 
 
 ## Descripción
