@@ -1,5 +1,8 @@
 # Sistema Básico para la Gestión de Ventas de Productos Electrónicos
 
+![Descripción del gif](assets/mi_gif.gif)
+
+
 ## Descripción
 Este proyecto consiste en el desarrollo de un sistema de base de datos para la gestión básica de información sobre los productos vendidos en una mini empresa.
 
